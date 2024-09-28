@@ -1,0 +1,19 @@
+
+runs/
+*.pyc
+__pycache__/
+Lib/
+Include/
+Scripts/
+etc/
+share
+Collected Image
+/__pycache__
+Collected_Image
+last2.pt
+yolov8x.pt
+/yolov8x.pt
+/last.pt
+*.pt
+yolov8x.pt
+*.pt
