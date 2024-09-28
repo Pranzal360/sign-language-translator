@@ -108,3 +108,5 @@ This project is open-source and available under the MIT License.
 Contributors:
 
     Pranzal Khatiwada  @Pranzal360
+    Shuam Rai 
+    Rohan Adhikari
